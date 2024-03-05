@@ -1,2 +1,1 @@
-# EliSakura-Fansubs
-Fansub
+# Sakura
